@@ -24,7 +24,7 @@ Display IP of Wazuh agent: <br/>
 <img width="753" alt="Image" src="https://github.com/user-attachments/assets/1e540984-1f0b-4126-8834-3eec05f771bf" />
 <br />
 Deploy new agent:  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="752" alt="Image" src="https://github.com/user-attachments/assets/6290c829-88ac-4808-8f97-a6aaac224bf9" />
 <br />
 <br />
 Edit Windows configuration file to allow collected logs from Sysmon: <br/>
